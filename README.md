@@ -20,4 +20,4 @@ This project focuses on predicting human age from bone X-ray images using convol
 - Model evaluation and prediction analysis
 
 ## Notes
-This repository contains the training notebook used for experimentation and learning purposes.
+This repository contains the training notebook used for experimentation and learning purposes of the project.
